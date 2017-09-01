@@ -2,7 +2,7 @@
 **Original tutorial by:**
 * Antonio Grillo - [ntngrillo@gmail.com](mailto:ntngrillo@gmail.com) - Last updated 2017-07-24
 * FabLab Napoli - Naples, IT
-* License: MI
+* License: MIT
 
 ## Step_1
 Navigate to ````Settings````. You can get there by clicking on the gear icon in the Start menu.
